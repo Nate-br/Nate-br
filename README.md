@@ -1,8 +1,8 @@
 Hi there 👋
 
-i'm Natnael,a web application developer and designer based in ETHIOPIA/AFRICA.
+i'm ✨ Natnael,a web application developer and designer based in ETHIOPIA/AFRICA.
 
-I Develop and build what i can imagine and see.
+I develop and build what i can imagine and see.
 
 My main tools are react,node,css,typescript,fedora(linux).
 
