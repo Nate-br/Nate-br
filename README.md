@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi there 👋
+
+i'm Natnael,a web application developer and designer based in ETHIOPIA/AFRICA.
+
+I DEVELOP AND BUILD WHAT I CAN IMAGINE AND SEE.
+
+My main tools react,node,css,typescript,fedora(linux).
+
+🌱 i'm currently a cs sophomore student.
+
 
 <!--
 **Nate-br/Nate-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
