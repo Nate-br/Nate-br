@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=NATE&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=THANKS%20FOR%20VISITING%20MY%20PROFILE!" alt="Typing introduction" />
