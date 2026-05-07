@@ -1,11 +1,13 @@
 Hi there 👋
 
 i'm ✨ Natnael,a web application developer and designer.
+
 I develop and build what i can imagine.
 
 My main tools are react, node.js, css, typescript, html, fedora(linux).
 
-🌱 i'm currently a cs sophomore student.
+
+
 
 
 <!--
