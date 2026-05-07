@@ -8,8 +8,8 @@
 <img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 👨‍💻 Cybersecurity student | 🐍 Python enthusiast
-- 🔐 Breaking barriers, not systems | 🚀 Building exciting tools.
+- 👨‍💻 Computer Science student |🛠️passionate webDev
+- 🔐 Locked in| 🚀 Building exciting tools.
 - 🎯 Currently crafting smarter and faster.
 
 
