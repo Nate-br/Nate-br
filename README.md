@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=NATE&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
@@ -10,7 +12,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
+
 
 ## 📌 About Me
 - 👨‍💻 Cybersecurity student | 🐍 Python enthusiast
