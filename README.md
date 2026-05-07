@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=THANKS%20FOR%20VISITING%20MY%20PROFILE!" alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Nate-br">
-    <img src="https://komarev.com/ghpvc/?username=Nate-br&label=Profile%20views&color=00FFFF&style=flat-square" alt="Nate-br's profile views" />
-  </a>
-</p>
 
 <img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
 
