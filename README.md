@@ -8,11 +8,7 @@
 
 - <img src="https://img.icons8.com/ios-filled/50/9ca3af/goal.png" width="16"/> Currently crafting smarter and faster
 
-## <img src="https://img.icons8.com/ios-filled/50/9ca3af/combo-chart.png" width="18"/> GitHub Stats
 
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Nate-br&theme=monokai&radius=10" alt="Nate-br's Activity Graph" />
-</p>
 
 ## <img src="https://img.icons8.com/ios-filled/50/9ca3af/toolbox.png" width="18"/> Languages & Tools
 
