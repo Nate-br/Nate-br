@@ -4,7 +4,7 @@
 
 - <img src="https://img.icons8.com/ios-filled/50/9ca3af/code.png" width="16"/> Computer Science student | <img src="https://img.icons8.com/ios-filled/50/9ca3af/maintenance.png" width="16"/> Passionate webDev
 
-- <img src="https://img.icons8.com/ios-filled/50/9ca3af/shield.png" width="16"/> Cyber-security enthusiast | <img src="https://img.icons8.com/ios-filled/50/9ca3af/rocket.png" width="16"/> Building exciting tools
+- <img src="https://img.icons8.com/ios-filled/50/9ca3af/shield.png" width="16"/> Cyber-security | <img src="https://img.icons8.com/ios-filled/50/9ca3af/rocket.png" width="16"/> Building exciting tools
 
 - <img src="https://img.icons8.com/ios-filled/50/9ca3af/goal.png" width="16"/> Currently crafting smarter and faster
 
