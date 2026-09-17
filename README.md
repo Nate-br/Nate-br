@@ -2,9 +2,9 @@
 
 ## <img src="https://img.icons8.com/ios-filled/50/9ca3af/marker.png" width="18"/> About Me
 
-- <img src="https://img.icons8.com/ios-filled/50/9ca3af/code.png" width="16"/> Computer Science student | <img src="https://img.icons8.com/ios-filled/50/9ca3af/maintenance.png" width="16"/> Passionate webDev
+- <img src="https://img.icons8.com/ios-filled/50/9ca3af/code.png" width="16"/> Computer Science student | <img src="https://img.icons8.com/ios-filled/50/9ca3af/maintenance.png" width="16"/> re-engineer
 
-- <img src="https://img.icons8.com/ios-filled/50/9ca3af/shield.png" width="16"/> Cyber-security | <img src="https://img.icons8.com/ios-filled/50/9ca3af/rocket.png" width="16"/> Building exciting tools
+- <img src="https://img.icons8.com/ios-filled/50/9ca3af/shield.png" width="16"/> Cyber-security | <img src="https://img.icons8.com/ios-filled/50/9ca3af/rocket.png" width="16"/> Building always
 
 - <img src="https://img.icons8.com/ios-filled/50/9ca3af/goal.png" width="16"/> Currently crafting smarter and faster
 
@@ -19,11 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
   &nbsp;&nbsp;
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  &nbsp;&nbsp;
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  &nbsp;&nbsp;
 
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
 
