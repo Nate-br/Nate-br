@@ -21,11 +21,17 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
+  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/icons/parrotsecurity.svg" alt="Parrot OS" width="40" height="40" />
   &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40" />
 </p>
@@ -41,7 +47,7 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/icons/wireshark.svg" alt="Wireshark" width="40" height="40" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/icons/nmap.svg" alt="Nmap" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/icons/nmap.png" alt="Nmap" width="40" height="40" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/icons/metasploit.svg" alt="Metasploit" width="40" height="40" />
 </p>
@@ -53,7 +59,7 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:snati6407@gmail.com">
+  <a href="mailto:mr.d3face@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
 </p>
