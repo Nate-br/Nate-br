@@ -13,17 +13,37 @@
 ## <img src="https://img.icons8.com/ios-filled/50/9ca3af/toolbox.png" width="18"/> Languages & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   &nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40" />
+</p>
 
-
-
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
-  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/icons/ida.png" alt="IDA Pro" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/icons/ghidra.svg" alt="Ghidra" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/icons/frida.png" alt="Frida" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/icons/burpsuite.svg" alt="Burp Suite" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/icons/wireshark.svg" alt="Wireshark" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/icons/nmap.svg" alt="Nmap" width="40" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/icons/metasploit.svg" alt="Metasploit" width="40" height="40" />
 </p>
 
 ## <img src="https://img.icons8.com/ios-filled/50/9ca3af/share.png" width="18"/> Connect with Me
