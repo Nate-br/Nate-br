@@ -7,8 +7,8 @@
 </p>
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/assets/left.gif"/>
   <img height="200" src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/assets/middle.gif"/>
+  <img height="200" src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/assets/left.gif"/>
   <img height="200" src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/assets/right.jpg"/>
 </div>
 
