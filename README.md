@@ -7,9 +7,9 @@
 </p>
 
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVsb3czancycnZuNmVsbTM5ZXlkMGY0eXpibm16YzkwaDNrM2hkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KphDFbotQHzU5LBnBu/giphy.gif"/>
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtlbGZzazR3a2l2eHl1dnZwYWhrOTV5cXhnbDY1amp4OGljNGp4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ieBWQkIVEELhbizGAp/giphy.gif"/>
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnN4aHZobTdhcjN5eW9kcHVuamRxa3FmN3V1aDNqeGh0bGlleGRwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zLrMT1J1RuJ9u/giphy.gif"/>
+  <img height="200" src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/assets/left.gif"/>
+  <img height="200" src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/assets/middle.gif"/>
+  <img height="200" src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/assets/right.jpg"/>
 </div>
 
 ###
@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="center">Arsenal & Technologies</h3>
+<h3 align="center">Arsenal</h3>
 
 <div align="center">
   <!-- Languages -->
