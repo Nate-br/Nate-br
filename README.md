@@ -6,10 +6,6 @@
   <a href="mailto:mr.d3face@gmail.com"><img src="https://img.shields.io/badge/Contact-0A0A0A?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center">
-  <em><img src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/assets/toucan.png" height="18" align="center" alt="Toucan" /> &nbsp; "..in the end the Trojans get fucked by the Greeks."</em>
-</p>
-
 <div align="center">
   <img height="200" src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/assets/middle.gif"/>
   <img height="200" src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/assets/left.gif"/>
@@ -70,5 +66,5 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=System.out.println(%22Always%20learning%2C%20always%20reversing.%22);..in%20the%20end%20the%20Trojans%20get%20fucked%20by%20the%20Greeks.;THANKS%20FOR%20DROPPING%20BY%20!%20%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=System.out.println(%22Always%20learning%2C%20always%20reversing.%22);THANKS%20FOR%20DROPPING%20BY%20!%20%F0%9F%9A%80" alt="Typing SVG" />
 </p>
