@@ -71,9 +71,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </p>
-
-###
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=System.out.println(%22Always%20learning%2C%20always%20reversing.%22);THANKS%20FOR%20DROPPING%20BY%20!%20%F0%9F%9A%80" alt="Typing SVG" />
-</p>
