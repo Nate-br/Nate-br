@@ -1,4 +1,4 @@
-<h3 align="center">Inspect My Work :shipit:</h3>
+<h3 align="center">Inspect My Work <img src="https://raw.githubusercontent.com/Nate-br/Nate-br/main/assets/shipitparrot.gif" height="25" alt="Ship It Parrot" /></h3>
 
 <p align="center">
   <img src="https://gitviews.com/user/Nate-br.svg?style=for-the-badge&label=Observed&color=white&base=0"/>
