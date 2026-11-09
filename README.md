@@ -15,8 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nate-br&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Nate-br&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165"/>
+  <img src="metrics.plugin.isocalendar.svg" alt="Isometric Contributions Calendar" />
 </div>
 
 ###
